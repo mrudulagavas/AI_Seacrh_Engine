@@ -3,10 +3,7 @@
 Anusandhan is an AI-powered search engine designed to provide real-time search capabilities with concise answers and reference sources. It features a frontend UI written in Streamlit for easy interaction and a backend API developed using Node.js.
 
 
-<div align="center">
-  <img src="ai_seacrh_ui\demo.png" alt="Logo" 
-        width="400" align="center">
-</div>
+![first image](./ai_search_ui/demo.png)
 
 
 ## Directory Structure
