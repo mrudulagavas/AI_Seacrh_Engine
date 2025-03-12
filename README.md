@@ -4,7 +4,7 @@ Anusandhan is an AI-powered search engine designed to provide real-time search c
 
 
 <div align="center">
-  <img src="ai_seacrh_ui/demo.png" alt="Logo" 
+  <img src="ai_seacrh_ui\demo.png" alt="Logo" 
         width="400" align="center">
 </div>
 
