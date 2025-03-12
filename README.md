@@ -1,6 +1,6 @@
 # AI Search Engine - NeuraSeek
 
-Anusandhan is an AI-powered search engine designed to provide real-time search capabilities with concise answers and reference sources. It features a frontend UI written in Streamlit for easy interaction and a backend API developed using Node.js.
+NeuraSeek is an AI-powered search engine designed to provide real-time search capabilities with concise answers and reference sources. It features a frontend UI written in Streamlit for easy interaction and a backend API developed using Node.js.
 
 
 ![first image](./ai_search_ui/demo.png)
