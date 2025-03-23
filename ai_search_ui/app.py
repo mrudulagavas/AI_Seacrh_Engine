@@ -44,7 +44,7 @@ def display_sources_with_delay(search_results, delay_ms):
 def main():
     
     st.set_page_config(
-        page_title="Anusandhan AI",
+        page_title="Neura-seek",
         page_icon="✨",
     )
     
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
 
 # UI
-st.title("Anusandhan - AI Search Engine 🌟")
+st.title("Neura-seek - AI Search Engine 🌟")
 # st.subheader("AI for spritual matters")
 st.markdown(
     """
